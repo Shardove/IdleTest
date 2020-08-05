@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "400614485148",
+    "firebase_url": "https://idletest-2f3ea.firebaseio.com",
+    "project_id": "idletest-2f3ea",
+    "storage_bucket": "idletest-2f3ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400614485148:android:262360368bf4314c1f1159",
+        "android_client_info": {
+          "package_name": "com.example.idletest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400614485148-lfuthg80o36n38pt0df3dg3ahu59q7vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuasZTcDZRKzXgFxgHX_Vuyg4G7-H5yZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400614485148-lfuthg80o36n38pt0df3dg3ahu59q7vt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
